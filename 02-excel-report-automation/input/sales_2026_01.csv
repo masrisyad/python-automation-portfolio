@@ -1,0 +1,283 @@
+order_id,order_date,customer,region,product,quantity,unit_price
+ORD-000111,2026-01-30,Customer E04,East,Desk Lamp,10,29.09
+ORD-000128,01/08/2026,Customer J35, North ,Headset,2,73.24
+ORD-000244,2026-01-17,Customer D03,WEST,Wireless Mouse,1,22.84
+ORD-000149,"Jan 10, 2026",Customer Z25,north,Desk Lamp,11,33.87
+ORD-000162,"Jan 04, 2026",Customer I34,SOUTH,USB-C Hub,8,40.51
+ORD-000065,"Jan 31, 2026",Customer D29,west,Monitor 27in,6,235.89
+ORD-000270,2026-01-31,Customer A00,EAST,Desk Lamp,7,32.37
+ORD-000076,01/26/2026,Customer F05,north,Laptop Stand,10,39.75
+ORD-000237,01/16/2026,Customer T19,SOUTH,Mechanical Keyboard,4,82.19
+ORD-000246,2026-01-22,Customer A00,North,headset,8,69.49
+ORD-000060,2026-01-08,Customer C02,SOUTH,Desk Lamp,11,29.78
+ORD-000040,01/08/2026,Customer W22, South ,Headset,4,67.60
+ORD-000093,01/28/2026,Customer I34,East,Headset,3,67.31
+ORD-000002,2026-01-02,Customer N13,north,Monitor 27in,1,238.22
+ORD-000122,01/03/2026,Customer M38,north,Headset,2,70.18
+ORD-000260,2026-01-19,Customer Y24,south,Mechanical Keyboard,9,82.70
+ORD-000067,"Jan 08, 2026",Customer N39,East,headset,8,64.61
+ORD-000104,01/04/2026,Customer K36, East ,Headset,4,75.60
+ORD-000180,01/18/2026,Customer D29,north,desk lamp,10,33.39
+ORD-000206,"Jan 10, 2026",Customer I34,West,Webcam 1080p,2,62.59
+ORD-000269,"Jan 04, 2026",Customer W22,north,USB-C Hub,4,46.32
+ORD-000207,"Jan 02, 2026",Customer F05, West ,Webcam 1080p,5,55.63
+ORD-000160,2026-01-20,Customer B01, South ,Headset,1,72.14
+ORD-000136,2026-01-18,Customer G32, North ,Monitor 27in,12,226.08
+ORD-000198,"Jan 19, 2026",Customer G32,East,Webcam 1080p,,57.01
+ORD-000039,"Jan 26, 2026",Customer P15, South ,Monitor 27in,11,246.05
+ORD-000195,"Jan 27, 2026",Customer N39,SOUTH,Webcam 1080p,10,62.48
+ORD-000112,2026-01-10,Customer G06,south,Wireless Mouse,8,27.25
+ORD-000193,2026-01-10,Customer G06,South,Headset,9,72.64
+ORD-000184,01/28/2026,Customer M12, South ,Webcam 1080p,2,54.20
+ORD-000124,2026-01-14,Customer A26, West ,Mechanical Keyboard,8,85.66
+ORD-000005,2026-01-30,Customer J35, East ,USB-C Hub,7,40.91
+ORD-000254,01/08/2026,Customer M38,East,monitor 27in,2,251.56
+ORD-000215,"Jan 06, 2026",Customer Z25,East,mechanical keyboard,10,83.39
+ORD-000247,"Jan 01, 2026",Customer B27,north,Webcam 1080p,9,55.94
+ORD-000165,"Jan 24, 2026",Customer G06, South ,mechanical keyboard,11,94.58
+ORD-000239,"Jan 15, 2026",Customer W22, East ,Monitor 27in,9,227.44
+ORD-000157,2026-01-27,Customer O14,East,Laptop Stand,7,38.19
+ORD-000015,01/20/2026,Customer B01,EAST,Wireless Mouse,6,24.04
+ORD-000084,01/25/2026,Customer K36,SOUTH,Wireless Mouse,11,27.08
+ORD-000041,01/28/2026,Customer W22,East,Webcam 1080p,2,64.55
+ORD-000026,01/05/2026,Customer N13,NORTH,Headset,4,70.16
+ORD-000004,01/04/2026,Customer G06, East ,Desk Lamp,2,33.47
+ORD-000218,"Jan 06, 2026",Customer G32, North ,Webcam 1080p,7,57.44
+ORD-000228,2026-01-05,Customer H07,WEST,Desk Lamp,5,34.49
+ORD-000253,01/22/2026,Customer Y24,north,Monitor 27in,9,208.56
+ORD-000210,2026-01-31,Customer A26,West,Wireless Mouse,9,23.94
+ORD-000203,01/11/2026,Customer I34, East ,Monitor 27in,3,237.28
+ORD-000103,"Jan 19, 2026",Customer B27, West ,Desk Lamp,5,31.26
+ORD-000024,2026-01-30,Customer A26,West,USB-C Hub,4,41.03
+ORD-000169,"Jan 14, 2026",Customer C28,East,Desk Lamp,7,31.98
+ORD-000070,"Jan 10, 2026",Customer X23,East,Mechanical Keyboard,11,85.99
+ORD-000018,"Jan 13, 2026",Customer X23,West,Webcam 1080p,11,57.09
+ORD-000172,"Jan 15, 2026",Customer W22,East,Desk Lamp,1,29.17
+ORD-000020,01/09/2026,Customer N13,west,Mechanical Keyboard,11,87.35
+ORD-000080,2026-01-03,Customer Q16,west,Headset,11,64.16
+ORD-000091,"Jan 08, 2026",Customer J09,South,Headset,8,74.23
+ORD-000088,2026-01-21,Customer N13, South ,Headset,8,71.74
+ORD-000226,"Jan 22, 2026",Customer I08, North ,USB-C Hub,11,45.26
+ORD-000121,2026-01-15,Customer D03,West,Webcam 1080p,11,61.51
+ORD-000259,2026-01-28,Customer S18,West,Desk Lamp,7,32.38
+ORD-000095,01/23/2026,Customer J09,North,Headset,7,66.68
+ORD-000177,01/07/2026,Customer F31,north,Headset,10,64.48
+ORD-000192,2026-01-17,Customer N13, North ,monitor 27in,8,246.51
+ORD-000021,01/04/2026,Customer W22,West,USB-C Hub,11,46.56
+ORD-000133,2026-01-14,Customer G32,EAST,Headset,5,71.46
+ORD-000213,01/30/2026,Customer D29,South,USB-C Hub,6,42.24
+ORD-000263,01/26/2026,Customer V21,South,Monitor 27in,6,237.94
+ORD-000013,2026-01-22,Customer I34, East ,Wireless Mouse,12,24.77
+ORD-000006,2026-01-25,Customer O14,WEST,Mechanical Keyboard,5,86.59
+ORD-000007,"Jan 12, 2026",Customer R17,SOUTH,Desk Lamp,4,31.76
+ORD-000078,2026-01-20,Customer N13,east,Wireless Mouse,12,23.37
+ORD-000123,"Jan 13, 2026",Customer S18,West,desk lamp,10,34.26
+ORD-000073,2026-01-06,Customer I34,east,desk lamp,5,30.67
+ORD-000017,2026-01-31,Customer Q16,South,Headset,9,71.62
+ORD-000117,2026-01-03,Customer L37,south,Mechanical Keyboard,9,96.13
+ORD-000183,01/17/2026,Customer K10,east,USB-C Hub,3,49.03
+ORD-000142,01/28/2026,Customer J09,North,Desk Lamp,11,33.90
+ORD-000241,"Jan 09, 2026",Customer L37,East,Wireless Mouse,9,24.40
+ORD-000097,01/03/2026,Customer V21,North,Laptop Stand,8,41.80
+ORD-000115,01/18/2026,Customer D03,East,Desk Lamp,11,34.23
+ORD-000129,"Jan 20, 2026",Customer R17,SOUTH,Wireless Mouse,11,27.11
+ORD-000085,"Jan 19, 2026",Customer F31,WEST,Laptop Stand,7,40.33
+ORD-000055,01/02/2026,Customer Y24,WEST,Monitor 27in,4,219.78
+ORD-000028,2026-01-19,Customer N39,WEST,Mechanical Keyboard,10,85.73
+ORD-000120,01/24/2026,Customer C28, North ,USB-C Hub,2,46.04
+ORD-000225,"Jan 25, 2026",Customer A26, West ,Laptop Stand,3,38.04
+ORD-000164,2026-01-13,Customer Y24, East ,Wireless Mouse,8,22.84
+ORD-000046,01/20/2026,Customer Z25,EAST,Laptop Stand,10,39.62
+ORD-000086,"Jan 11, 2026",Customer F31, West ,Laptop Stand,7,38.65
+ORD-000205,"Jan 23, 2026",Customer F31, West ,Webcam 1080p,4,62.49
+ORD-000212,01/30/2026,Customer F31,east,Laptop Stand,,39.53
+ORD-000134,01/17/2026,Customer C02,west,Headset,11,64.92
+ORD-000174,"Jan 03, 2026",Customer X23, West ,Laptop Stand,4,36.30
+ORD-000001,2026-01-24,Customer O14,north,Wireless Mouse,5,22.93
+ORD-000265,01/27/2026,Customer H07,south,Webcam 1080p,7,64.35
+ORD-000197,2026-01-17,Customer M38,east,Headset,8,67.52
+ORD-000119,"Jan 26, 2026",Customer U20,SOUTH,Desk Lamp,4,31.49
+ORD-000261,01/14/2026,Customer T19,North,Laptop Stand,5,40.72
+ORD-000222,01/23/2026,Customer F05,North,Mechanical Keyboard,10,88.23
+ORD-000257,2026-01-11,Customer F05,EAST,Monitor 27in,6,210.78
+ORD-000155,01/25/2026,Customer G32,South,Headset,5,64.01
+ORD-000243,2026-01-24,Customer I08,South,Laptop Stand,6,40.11
+ORD-000066,"Jan 15, 2026",Customer L37, East ,Headset,7,63.30
+ORD-000052,"Jan 29, 2026",Customer E30,East,Headset,3,65.93
+ORD-000012,2026-01-05,Customer B27,WEST,USB-C Hub,11,45.26
+ORD-000208,"Jan 30, 2026",Customer R17,north,Webcam 1080p,9,55.96
+ORD-000015,01/20/2026,Customer B01,EAST,Wireless Mouse,6,24.04
+ORD-000082,"Jan 04, 2026",Customer T19,East,Headset,8,63.21
+ORD-000010,01/21/2026,Customer D29,east,Mechanical Keyboard,8,89.69
+ORD-000271,01/15/2026,Customer D29,east,Mechanical Keyboard,6,85.36
+ORD-000049,"Jan 15, 2026",Customer K36,west,USB-C Hub,7,46.40
+ORD-000156,01/02/2026,Customer X23,NORTH,Webcam 1080p,11,56.32
+ORD-000230,2026-01-13,Customer I34,north,Wireless Mouse,8,23.67
+ORD-000266,2026-01-31,Customer C28, North ,Headset,12,67.75
+ORD-000219,01/08/2026,Customer J09,East,Mechanical Keyboard,3,88.48
+ORD-000186,"Jan 21, 2026",Customer A26,WEST,Webcam 1080p,4,60.67
+ORD-000019,2026-01-19,Customer E04,SOUTH,mechanical keyboard,4,85.98
+ORD-000063,"Jan 03, 2026",Customer P15,EAST,Mechanical Keyboard,10,82.25
+ORD-000051,"Jan 05, 2026",Customer H33, West ,Headset,8,69.07
+ORD-000087,2026-01-09,Customer Z25,WEST,Desk Lamp,6,31.12
+ORD-000238,"Jan 30, 2026",Customer M38,west,Headset,4,72.80
+ORD-000098,"Jan 31, 2026",Customer F31,NORTH,Monitor 27in,6,219.26
+ORD-000032,01/22/2026,Customer G06,east,Wireless Mouse,9,25.27
+ORD-000096,2026-01-28,Customer H33,North,USB-C Hub,8,46.39
+ORD-000042,2026-01-19,Customer G06,East,Laptop Stand,5,39.83
+ORD-000214,"Jan 11, 2026",Customer D29, South ,usb-c hub,3,43.16
+ORD-000038,2026-01-30,Customer L11,North,Laptop Stand,4,41.20
+ORD-000227,2026-01-27,Customer T19,West,Mechanical Keyboard,1,84.51
+ORD-000034,01/03/2026,Customer R17,NORTH,Wireless Mouse,11,27.40
+ORD-000274,"Jan 21, 2026",Customer K10,south,Desk Lamp,2,31.53
+ORD-000189,01/13/2026,Customer G32,EAST,Desk Lamp,3,31.68
+ORD-000258,01/06/2026,Customer J35,North,usb-c hub,7,41.34
+ORD-000119,"Jan 26, 2026",Customer U20,SOUTH,Desk Lamp,4,31.49
+ORD-000211,2026-01-21,Customer K36,north,Webcam 1080p,1,63.51
+ORD-000025,01/01/2026,Customer D29, West ,Monitor 27in,7,241.98
+ORD-000132,2026-01-29,Customer K10,NORTH,USB-C Hub,1,44.87
+ORD-000202,"Jan 28, 2026",Customer D03,south,Headset,12,68.70
+ORD-000170,"Jan 26, 2026",Customer B27,WEST,Webcam 1080p,2,59.54
+ORD-000191,01/07/2026,Customer G32,West,Desk Lamp,3,29.38
+ORD-000083,"Jan 29, 2026",Customer U20, North ,wireless mouse,7,26.68
+ORD-000185,2026-01-19,Customer K10, North ,Laptop Stand,10,35.45
+ORD-000187,"Jan 16, 2026",Customer Z25, West ,webcam 1080p,4,58.29
+ORD-000072,"Jan 07, 2026",Customer E30, East ,Laptop Stand,4,37.41
+ORD-000137,01/30/2026,Customer K36,West,Headset,2,63.69
+ORD-000154,2026-01-08,Customer T19,South,Headset,9,75.69
+ORD-000146,2026-01-17,Customer C02,west,USB-C Hub,11,45.99
+ORD-000016,2026-01-08,Customer F05,North,Wireless Mouse,10,23.13
+ORD-000150,"Jan 22, 2026",Customer H33,WEST,Laptop Stand,,37.51
+ORD-000273,"Jan 04, 2026",Customer C28, North ,Headset,8,63.69
+ORD-000221,"Jan 02, 2026",Customer M12,south,USB-C Hub,9,41.55
+ORD-000196,2026-01-18,Customer M12,North,desk lamp,6,30.93
+ORD-000208,"Jan 30, 2026",Customer R17,north,Webcam 1080p,9,55.96
+ORD-000264,01/11/2026,Customer U20, West ,Headset,3,66.60
+ORD-000151,2026-01-11,Customer O14,south,mechanical keyboard,8,81.90
+ORD-000054,2026-01-05,Customer Y24,south,usb-c hub,3,45.38
+ORD-000061,2026-01-16,Customer K36,west,Laptop Stand,11,36.41
+ORD-000248,01/27/2026,Customer Z25,EAST,Webcam 1080p,6,55.97
+ORD-000171,01/04/2026,Customer S18, West ,Desk Lamp,2,33.21
+ORD-000023,2026-01-09,Customer E04,North,laptop stand,8,41.62
+ORD-000090,"Jan 15, 2026",Customer J09,East,USB-C Hub,2,48.01
+ORD-000068,01/12/2026,Customer R17, North ,Mechanical Keyboard,5,84.40
+ORD-000217,"Jan 19, 2026",Customer A00, East ,Webcam 1080p,12,54.50
+ORD-000190,01/04/2026,Customer Y24,South,Laptop Stand,1,41.45
+ORD-000077,01/25/2026,Customer C28,East,Mechanical Keyboard,9,85.54
+ORD-000064,01/12/2026,Customer X23,EAST,wireless mouse,9,24.95
+ORD-000027,2026-01-02,Customer L11,NORTH,Laptop Stand,9,36.04
+ORD-000233,01/26/2026,Customer A26,South,Monitor 27in,9,230.74
+ORD-000056,"Jan 28, 2026",Customer I34,west,Monitor 27in,7,207.43
+ORD-000175,01/31/2026,Customer C28,SOUTH,Headset,6,71.06
+ORD-000113,"Jan 19, 2026",Customer J09,North,Monitor 27in,12,249.11
+ORD-000011,01/29/2026,Customer X23,south,Monitor 27in,10,208.26
+ORD-000139,01/17/2026,Customer T19, South ,Monitor 27in,2,229.48
+ORD-000094,"Jan 28, 2026",Customer P15,South,Desk Lamp,4,30.84
+ORD-000140,2026-01-17,Customer W22, South ,USB-C Hub,9,42.28
+ORD-000069,2026-01-16,Customer E30,West,Monitor 27in,9,216.25
+ORD-000245,"Jan 01, 2026",Customer D29, North ,Laptop Stand,4,39.91
+ORD-000147,01/12/2026,Customer A26, North ,Desk Lamp,5,29.22
+ORD-000029,"Jan 07, 2026",Customer U20,east,Webcam 1080p,11,56.64
+ORD-000240,2026-01-25,Customer X23, West ,headset,6,72.33
+ORD-000141,2026-01-25,Customer L11,West,Laptop Stand,11,38.60
+ORD-000204,2026-01-20,Customer P15, East ,Webcam 1080p,8,56.61
+ORD-000194,2026-01-02,Customer K36,east,Desk Lamp,7,32.03
+ORD-000118,2026-01-09,Customer I34, South ,Wireless Mouse,3,23.16
+ORD-000044,2026-01-12,Customer V21, North ,Mechanical Keyboard,7,85.61
+ORD-000222,01/23/2026,Customer F05,North,Mechanical Keyboard,10,88.23
+ORD-000229,2026-01-07,Customer M38,WEST,Mechanical Keyboard,2,80.97
+ORD-000058,01/03/2026,Customer I08,South,wireless mouse,11,23.56
+ORD-000071,01/09/2026,Customer O14,SOUTH,Headset,5,75.22
+ORD-000009,01/26/2026,Customer R17,SOUTH,Wireless Mouse,6,26.09
+ORD-000075,2026-01-31,Customer E04,West,webcam 1080p,8,53.73
+ORD-000057,01/22/2026,Customer K10,South,Desk Lamp,11,34.60
+ORD-000008,"Jan 30, 2026",Customer J35,east,Webcam 1080p,11,55.80
+ORD-000145,"Jan 20, 2026",Customer J09,WEST,Desk Lamp,8,31.00
+ORD-000252,2026-01-06,Customer N13,west,Wireless Mouse,6,25.32
+ORD-000224,01/02/2026,Customer E04,NORTH,USB-C Hub,7,43.08
+ORD-000262,2026-01-20,Customer D29,SOUTH,Headset,10,66.68
+ORD-000114,01/02/2026,Customer N13,West,Webcam 1080p,12,54.27
+ORD-000182,"Jan 05, 2026",Customer L37,south,Desk Lamp,9,29.15
+ORD-000107,01/02/2026,Customer I08,EAST,Headset,10,64.87
+ORD-000223,"Jan 18, 2026",Customer T19,WEST,Wireless Mouse,,23.59
+ORD-000176,2026-01-31,Customer L11,West,Mechanical Keyboard,2,93.89
+ORD-000105,"Jan 09, 2026",Customer D03,East,Monitor 27in,1,242.83
+ORD-000127,2026-01-28,Customer S18, East ,Monitor 27in,12,213.19
+ORD-000168,2026-01-02,Customer S18, North ,Webcam 1080p,11,54.57
+ORD-000130,2026-01-01,Customer K36,North,Desk Lamp,3,29.00
+ORD-000144,"Jan 20, 2026",Customer Y24,North,USB-C Hub,10,46.37
+ORD-000234,01/28/2026,Customer J09,North,Mechanical Keyboard,4,90.02
+ORD-000209,2026-01-21,Customer G06,East,Mechanical Keyboard,4,93.82
+ORD-000050,01/29/2026,Customer O14,west,wireless mouse,2,26.74
+ORD-000250,2026-01-23,Customer F31,East,Wireless Mouse,3,22.98
+ORD-000203,01/11/2026,Customer I34, East ,Monitor 27in,3,237.28
+ORD-000095,01/23/2026,Customer J09,North,Headset,7,66.68
+ORD-000092,01/09/2026,Customer G32, North ,USB-C Hub,7,45.78
+ORD-000014,"Jan 17, 2026",Customer G06, South ,Webcam 1080p,3,59.46
+ORD-000159,2026-01-26,Customer C02, West ,Desk Lamp,3,33.32
+ORD-000116,2026-01-03,Customer M38,NORTH,Headset,11,63.84
+ORD-000216,2026-01-16,Customer A00, West ,Laptop Stand,6,42.54
+ORD-000249,2026-01-10,Customer C02,WEST,Mechanical Keyboard,11,81.10
+ORD-000232,2026-01-10,Customer J35,west,Monitor 27in,5,221.87
+ORD-000255,"Jan 08, 2026",Customer Y24,South,Headset,6,63.28
+ORD-000074,2026-01-21,Customer A00, West ,Laptop Stand,8,42.63
+ORD-000126,"Jan 26, 2026",Customer D03, North ,Desk Lamp,3,34.82
+ORD-000043,2026-01-13,Customer Q16,WEST,usb-c hub,10,45.35
+ORD-000237,01/16/2026,Customer T19,SOUTH,Mechanical Keyboard,4,82.19
+ORD-000045,"Jan 11, 2026",Customer S18,south,Monitor 27in,7,237.12
+ORD-000166,01/27/2026,Customer E30,south,laptop stand,11,38.67
+ORD-000242,"Jan 16, 2026",Customer V21, West ,Mechanical Keyboard,9,88.83
+ORD-000138,2026-01-31,Customer N39,East,wireless mouse,6,23.72
+ORD-000163,01/08/2026,Customer L11,EAST,desk lamp,10,32.05
+ORD-000125,01/22/2026,Customer J09,North,desk lamp,5,31.56
+ORD-000048,"Jan 03, 2026",Customer T19,south,Desk Lamp,4,35.10
+ORD-000109,2026-01-15,Customer O14,East,usb-c hub,2,42.88
+ORD-000099,01/24/2026,Customer G06,WEST,Mechanical Keyboard,2,80.62
+ORD-000148,01/18/2026,Customer S18, South ,USB-C Hub,11,41.77
+ORD-000036,"Jan 27, 2026",Customer J35,west,Wireless Mouse,6,26.99
+ORD-000256,"Jan 26, 2026",Customer E04,EAST,Webcam 1080p,4,60.58
+ORD-000108,01/17/2026,Customer K10, West ,Desk Lamp,9,34.37
+ORD-000100,01/26/2026,Customer W22, West ,Desk Lamp,1,32.42
+ORD-000131,01/13/2026,Customer V21,east,Mechanical Keyboard,7,96.86
+ORD-000037,2026-01-29,Customer P15,EAST,Wireless Mouse,6,24.53
+ORD-000178,01/03/2026,Customer W22,EAST,Headset,11,71.92
+ORD-000272,2026-01-04,Customer W22, East ,USB-C Hub,12,44.85
+ORD-000047,01/15/2026,Customer N13,South,Desk Lamp,8,33.05
+ORD-000030,2026-01-30,Customer D29,NORTH,Desk Lamp,2,29.65
+ORD-000079,01/06/2026,Customer C28,East,usb-c hub,1,43.04
+ORD-000062,01/25/2026,Customer G06,EAST,USB-C Hub,3,43.88
+ORD-000031,2026-01-29,Customer X23, South ,Desk Lamp,2,30.74
+ORD-000081,2026-01-27,Customer D03,east,Webcam 1080p,3,63.97
+ORD-000035,"Jan 24, 2026",Customer B27,NORTH,laptop stand,8,42.15
+ORD-000173,"Jan 12, 2026",Customer K10,SOUTH,Monitor 27in,9,226.17
+ORD-000022,"Jan 02, 2026",Customer V21,SOUTH,USB-C Hub,7,41.76
+ORD-000152,"Jan 22, 2026",Customer I08,South,Wireless Mouse,6,26.36
+ORD-000158,2026-01-08,Customer X23,north,Desk Lamp,7,33.37
+ORD-000236,01/02/2026,Customer M38,NORTH,Mechanical Keyboard,5,92.99
+ORD-000153,2026-01-24,Customer A26, South ,Laptop Stand,8,40.97
+ORD-000089,"Jan 01, 2026",Customer P15,east,USB-C Hub,11,41.34
+ORD-000268,"Jan 19, 2026",Customer G32,North,Headset,7,74.46
+ORD-000181,01/17/2026,Customer K36,SOUTH,Headset,7,68.31
+ORD-000179,"Jan 26, 2026",Customer O14,SOUTH,Laptop Stand,6,38.95
+ORD-000267,01/05/2026,Customer P15, South ,Headset,11,63.12
+ORD-000201,01/07/2026,Customer U20,South,USB-C Hub,1,45.02
+ORD-000199,01/14/2026,Customer B01,East,USB-C Hub,10,47.49
+ORD-000161,2026-01-04,Customer T19,NORTH,Monitor 27in,5,234.62
+ORD-000251,"Jan 08, 2026",Customer K36,East,wireless mouse,4,27.13
+ORD-000135,01/25/2026,Customer S18, North ,mechanical keyboard,3,83.23
+ORD-000059,01/11/2026,Customer A26, North ,Desk Lamp,7,29.13
+ORD-000235,01/13/2026,Customer N13, North ,Laptop Stand,4,35.82
+ORD-000101,2026-01-06,Customer N39,South,Laptop Stand,3,36.91
+ORD-000167,2026-01-07,Customer C02, East ,Webcam 1080p,1,59.51
+ORD-000188,01/15/2026,Customer M38,east,Headset,4,75.73
+ORD-000096,2026-01-28,Customer H33,North,USB-C Hub,8,46.39
+ORD-000053,01/21/2026,Customer C28,EAST,Headset,4,74.42
+ORD-000033,2026-01-10,Customer V21,east,Webcam 1080p,10,63.82
+ORD-000143,2026-01-12,Customer T19,West,wireless mouse,9,23.94
+ORD-000106,"Jan 21, 2026",Customer Q16,north,Mechanical Keyboard,4,85.60
+ORD-000110,"Jan 15, 2026",Customer Q16,East,USB-C Hub,6,40.73
+ORD-000003,"Jan 08, 2026",Customer R17,SOUTH,Monitor 27in,8,213.22
+ORD-000200,"Jan 24, 2026",Customer E30,west,Mechanical Keyboard,1,80.66
+ORD-000220,"Jan 25, 2026",Customer M38,WEST,Mechanical Keyboard,4,96.43
+ORD-000231,"Jan 19, 2026",Customer U20,east,Desk Lamp,10,32.14
+ORD-000102,"Jan 15, 2026",Customer A00,East,Webcam 1080p,5,58.31
