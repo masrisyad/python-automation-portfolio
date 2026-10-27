@@ -181,11 +181,15 @@ def add_charts(wb, tables: dict) -> None:
     monthly = wb["Monthly"]
     n = len(tables["Monthly"]) + 1
     line = LineChart()
-    line.title = "Monthly revenue"
-    line.y_axis.title = "USD"
-    line.x_axis.title = "Month"
+    line.title = "Monthly revenue (USD)"
     line.add_data(Reference(monthly, min_col=4, min_row=1, max_row=n), titles_from_data=True)
     line.set_categories(Reference(monthly, min_col=1, min_row=2, max_row=n))
+    line.varyColors = False
+    line.legend = None
+    line.series[0].smooth = False
+    line.x_axis.delete = False
+    line.y_axis.delete = False
+    line.y_axis.numFmt = '"$"#,##0'
     line.height, line.width = 8, 16
     monthly.add_chart(line, "G2")
 
@@ -195,6 +199,10 @@ def add_charts(wb, tables: dict) -> None:
     bar.title = "Revenue by region"
     bar.add_data(Reference(region, min_col=3, min_row=1, max_row=n), titles_from_data=True)
     bar.set_categories(Reference(region, min_col=1, min_row=2, max_row=n))
+    bar.legend = None
+    bar.x_axis.delete = False
+    bar.y_axis.delete = False
+    bar.y_axis.numFmt = '"$"#,##0'
     bar.height, bar.width = 8, 14
     region.add_chart(bar, "F2")
 
@@ -205,6 +213,10 @@ def add_charts(wb, tables: dict) -> None:
     bar2.title = "Revenue by product"
     bar2.add_data(Reference(product, min_col=3, min_row=1, max_row=n), titles_from_data=True)
     bar2.set_categories(Reference(product, min_col=1, min_row=2, max_row=n))
+    bar2.legend = None
+    bar2.x_axis.delete = False
+    bar2.y_axis.delete = False
+    bar2.y_axis.numFmt = '"$"#,##0'
     bar2.height, bar2.width = 8, 14
     product.add_chart(bar2, "G2")
 
